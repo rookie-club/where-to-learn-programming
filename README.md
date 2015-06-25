@@ -9,6 +9,7 @@ Ressources list to learn programming.
 * https://dash.generalassemb.ly/
 * http://www.codeavengers.com/
 * https://rubymonk.com/
+* http://silentteacher.toxicode.fr/
 
 ## Exercices
 

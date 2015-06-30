@@ -16,3 +16,4 @@ Ressources list to learn programming.
 * https://www.hackerrank.com/domains
 * http://exercism.io/
 * http://www.codewars.com/
+* https://www.checkio.org/

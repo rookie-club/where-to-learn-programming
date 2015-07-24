@@ -17,3 +17,7 @@ Ressources list to learn programming.
 * http://exercism.io/
 * http://www.codewars.com/
 * https://www.checkio.org/
+
+## Books & book list
+
+* http://www.quora.com/What-are-the-best-books-for-learning-programming

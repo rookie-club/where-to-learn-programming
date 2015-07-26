@@ -21,3 +21,7 @@ Ressources list to learn programming.
 ## Books & book list
 
 * http://www.quora.com/What-are-the-best-books-for-learning-programming
+
+## Articles
+
+* http://carlcheo.com/startcoding

@@ -10,6 +10,7 @@ Ressources list to learn programming.
 * http://www.codeavengers.com/
 * https://rubymonk.com/
 * http://silentteacher.toxicode.fr/
+* Learn Vim http://vim-adventures.com/
 
 ## Exercices
 

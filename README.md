@@ -11,7 +11,8 @@ Ressources list to learn programming.
 * https://rubymonk.com/
 * http://silentteacher.toxicode.fr/
 * Learn Vim http://vim-adventures.com/
-
+* Learn CSS https://flukeout.github.io/
+* 
 ## Exercices
 
 * https://www.hackerrank.com/domains

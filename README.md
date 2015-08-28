@@ -26,4 +26,5 @@ Ressources list to learn programming.
 
 ## Articles
 
+* https://medium.com/@isisAnchalee/so-you-want-to-learn-how-to-code-7d9211231bcf
 * http://carlcheo.com/startcoding
